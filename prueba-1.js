@@ -1,3 +1,6 @@
-stringb-ds n mcbk
-string-pd cn st
+'b-ds n mcbk'
+'pd cn st'
+
+var nombre = alejandro
+
   
